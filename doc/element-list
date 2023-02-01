@@ -1,0 +1,8 @@
+module:hu.unipannon.virt.plot
+hu.unipannon.virt.plot.control
+hu.unipannon.virt.plot.data
+hu.unipannon.virt.plot.fluent
+hu.unipannon.virt.plot.frame
+hu.unipannon.virt.plot.frame.horizontal
+hu.unipannon.virt.plot.frame.vertical
+hu.unipannon.virt.plot.util
